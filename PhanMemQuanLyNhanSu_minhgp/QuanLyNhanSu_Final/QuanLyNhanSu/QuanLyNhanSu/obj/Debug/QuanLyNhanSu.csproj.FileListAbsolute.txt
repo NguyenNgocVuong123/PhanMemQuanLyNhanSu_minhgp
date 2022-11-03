@@ -1,0 +1,182 @@
+c:\users\za mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+c:\users\za mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+c:\users\za mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+c:\users\za mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+c:\users\za mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+c:\users\za mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe.licenses
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.formMain.resources
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.PhongBan.formThemPhongBan.resources
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ChuyenMon.formThemChuyenMon.resources
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.NhanVien.formThemNhanVien.resources
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.HopDong.formThemHopDong.resources
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.HopDong.formThemChiTietHopDong.resources
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.PhatLuong.formThemPhatLuong.resources
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DiemDanh.formThemDiemDanh.resources
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.KhenThuong.formThemKhenThuong.resources
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ChucVu.formThemChucVu.resources
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Database\Database.mdf
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Database\Database_log.ldf
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.QueQuan.formThemQQ.resources
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.formDangNhap.resources
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.manifest
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.application
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.TrustInfo.xml
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe.manifest
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.application
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.formQuenMatKhau.resources
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.PhatLuong.formCauHinhPL.resources
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.PhatLuong.formDSTamUng.resources
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.TaiKhoan.formThemTaiKhoan.resources
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.BaoCao.formXemBaoCao.resources
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\Za Mynk\documents\visual studio 2013\Projects\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.ResolveComReference.cache
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Database\Database.mdf
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Database\Database_log.ldf
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.manifest
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.application
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.DemoData.v21.2.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Tutorials.v21.2.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Images.v21.2.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.ResolveComReference.cache
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.BaoCao.formXemBaoCao.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ChucVu.formThemChucVu.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ChuyenMon.formThemChuyenMon.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DiemDanh.formThemDiemDanh.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.formDangNhap.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.formMain.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.formQuenMatKhau.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.HopDong.formThemChiTietHopDong.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.HopDong.formThemHopDong.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.KhenThuong.formThemKhenThuong.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.NhanVien.formThemNhanVien.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.PhatLuong.formCauHinhPL.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.PhatLuong.formDSTamUng.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.PhatLuong.formThemPhatLuong.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.PhongBan.formThemPhongBan.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.QueQuan.formThemQQ.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.TaiKhoan.formThemTaiKhoan.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe.licenses
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.TrustInfo.xml
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe.manifest
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.application
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmM.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.UI.uc_NhanVien.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.UI.uc_ChucVu.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.UI.uc_ChuyenMon.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.UI.uc_PhongBan.resources
