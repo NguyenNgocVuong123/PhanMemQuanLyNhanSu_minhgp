@@ -331,14 +331,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QuanLyNhanSu.exe" size="6551552">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="QuanLyNhanSu.exe" size="6610432">
       <assemblyIdentity name="QuanLyNhanSu" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>RhtwkHz/anVQL5WmHpbQkXqEXYcdQMiXyOVlj3dk9h0=</dsig:DigestValue>
+        <dsig:DigestValue>/WvxavdMJLDxBwLiaxS2pAQ0zlcYq7zWD9aAiVZeB8Q=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -180,3 +180,8 @@ C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\Q
 C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.UI.uc_ChucVu.resources
 C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.UI.uc_ChuyenMon.resources
 C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.UI.uc_PhongBan.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.UI.uc_DiemDanh.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.UI.uc_HopDong.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.UI.uc_Luong.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.UI.uc_TaiKhoan.resources
+C:\Users\Admin\Downloads\PhanMemQuanLyNhanSu_minhgp\PhanMemQuanLyNhanSu_minhgp\QuanLyNhanSu_Final\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.UI.uc_Thuong.resources

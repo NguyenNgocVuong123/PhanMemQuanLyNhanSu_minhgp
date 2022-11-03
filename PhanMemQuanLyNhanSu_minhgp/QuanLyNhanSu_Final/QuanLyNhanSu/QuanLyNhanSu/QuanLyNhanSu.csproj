@@ -275,6 +275,24 @@
     <Compile Include="UI\uc_ChuyenMon.Designer.cs">
       <DependentUpon>uc_ChuyenMon.cs</DependentUpon>
     </Compile>
+    <Compile Include="UI\uc_DiemDanh.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\uc_DiemDanh.Designer.cs">
+      <DependentUpon>uc_DiemDanh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\uc_HopDong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\uc_HopDong.Designer.cs">
+      <DependentUpon>uc_HopDong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\uc_Luong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\uc_Luong.Designer.cs">
+      <DependentUpon>uc_Luong.cs</DependentUpon>
+    </Compile>
     <Compile Include="UI\uc_NhanVien.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -286,6 +304,18 @@
     </Compile>
     <Compile Include="UI\uc_PhongBan.Designer.cs">
       <DependentUpon>uc_PhongBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\uc_TaiKhoan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\uc_TaiKhoan.Designer.cs">
+      <DependentUpon>uc_TaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\uc_Thuong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\uc_Thuong.Designer.cs">
+      <DependentUpon>uc_Thuong.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="BaoCao\formXemBaoCao.resx">
       <DependentUpon>formXemBaoCao.cs</DependentUpon>
@@ -357,11 +387,26 @@
     <EmbeddedResource Include="UI\uc_ChuyenMon.resx">
       <DependentUpon>uc_ChuyenMon.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="UI\uc_DiemDanh.resx">
+      <DependentUpon>uc_DiemDanh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\uc_HopDong.resx">
+      <DependentUpon>uc_HopDong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\uc_Luong.resx">
+      <DependentUpon>uc_Luong.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UI\uc_NhanVien.resx">
       <DependentUpon>uc_NhanVien.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UI\uc_PhongBan.resx">
       <DependentUpon>uc_PhongBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\uc_TaiKhoan.resx">
+      <DependentUpon>uc_TaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\uc_Thuong.resx">
+      <DependentUpon>uc_Thuong.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="App.config" />
     <None Include="Properties\app.manifest" />
