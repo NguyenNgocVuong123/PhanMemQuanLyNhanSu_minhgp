@@ -305,6 +305,12 @@
     <Compile Include="UI\uc_PhongBan.Designer.cs">
       <DependentUpon>uc_PhongBan.cs</DependentUpon>
     </Compile>
+    <Compile Include="UI\uc_QueQuan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\uc_QueQuan.Designer.cs">
+      <DependentUpon>uc_QueQuan.cs</DependentUpon>
+    </Compile>
     <Compile Include="UI\uc_TaiKhoan.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -401,6 +407,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UI\uc_PhongBan.resx">
       <DependentUpon>uc_PhongBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\uc_QueQuan.resx">
+      <DependentUpon>uc_QueQuan.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UI\uc_TaiKhoan.resx">
       <DependentUpon>uc_TaiKhoan.cs</DependentUpon>
